@@ -17,8 +17,7 @@ print(type(t))
 l = [1,2,3]
 print(l)
 print(type(t))
-print(l[0])
-print(l[0])
+# print(l[0])
 l[1] = "Hallo"
 print(l)
 
